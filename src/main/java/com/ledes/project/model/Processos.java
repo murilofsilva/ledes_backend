@@ -3,13 +3,14 @@ package com.ledes.project.model;
 import lombok.Data;
 
 import java.math.BigDecimal;
-import java.util.Date;
+import java.time.LocalDate;
 
 @Data
-public class Processo {
+public class Processos {
+    private Long id;
     private String titulo;
     private String descricao;
-    private Date dtCriacao;
+    private LocalDate dtCriacao;
     //Criar uma enum para isso futuramente
     private String tipo;
     private BigDecimal vlDivida;
