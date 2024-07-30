@@ -128,18 +128,5 @@
     "distribuicao": "Manual",
     "vara": "10ª Vara Cível",
     "nomeExecutado": "Lúcia Ribeiro"
-  },
-  {
-    "id": 11,
-    "titulo": "Processo exemplar 11",
-    "descricao": "Execução de dívida comercial",
-    "dtCriacao": "2023-10-10",
-    "tipo": "Comercial",
-    "vlDivida": 18000.40,
-    "nomeJuiz": "Dr. Felipe Andrade",
-    "nroProcesso": 1111222,
-    "distribuicao": "Automática",
-    "vara": "11ª Vara Comercial",
-    "nomeExecutado": "Empresa DEF"
   }
 ]
