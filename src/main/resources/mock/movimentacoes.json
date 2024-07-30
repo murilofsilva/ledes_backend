@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "idProcesso": 3,
+    "titulo": "Movimentação Inicial",
+    "data": "2023-01-15T10:00:00",
+    "descricao": "Início do processo"
+  },
+  {
+    "id": 2,
+    "idProcesso": 3,
+    "titulo": "Audiência Preliminar",
+    "data": "2023-02-20T14:30:00",
+    "descricao": "Audiência para apresentação das partes Audiência para apresentação das partes Audiência para apresentação das partes Audiência para apresentação das partes Audiência para apresentação das partes"
+  },
+  {
+    "id": 3,
+    "idProcesso": 3,
+    "titulo": "Decisão Interlocutória",
+    "data": "2023-03-05T09:45:00",
+    "descricao": "Decisão sobre medida cautelar"
+  },
+  {
+    "id": 4,
+    "idProcesso": 2,
+    "titulo": "Audiência de Instrução",
+    "data": "2023-04-10T13:00:00",
+    "descricao": "Audiência para coleta de provas"
+  },
+  {
+    "id": 5,
+    "idProcesso": 4,
+    "titulo": "Sentença",
+    "data": "2023-05-15T16:30:00",
+    "descricao": "Sentença proferida pelo juiz"
+  },
+  {
+    "id": 6,
+    "idProcesso": 8,
+    "titulo": "Recurso de Apelação",
+    "data": "2023-06-01T11:00:00",
+    "descricao": "Interposição de recurso pela parte vencida"
+  },
+  {
+    "id": 7,
+    "idProcesso": 10,
+    "titulo": "Julgamento do Recurso",
+    "data": "2023-07-10T15:30:00",
+    "descricao": "Julgamento do recurso em tribunal superior"
+  },
+  {
+    "id": 8,
+    "idProcesso": 9,
+    "titulo": "Trânsito em Julgado",
+    "data": "2023-08-05T08:00:00",
+    "descricao": "Decisão transitada em julgado"
+  },
+  {
+    "id": 9,
+    "idProcesso": 5,
+    "titulo": "Cumprimento de Sentença",
+    "data": "2023-09-20T10:30:00",
+    "descricao": "Início do cumprimento da sentença"
+  },
+  {
+    "id": 10,
+    "idProcesso": 6,
+    "titulo": "Encerramento",
+    "data": "2023-10-15T12:00:00",
+    "descricao": "Encerramento do processo"
+  }
+]
