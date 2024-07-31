@@ -10,7 +10,8 @@
     "nroProcesso": 1010777,
     "distribuicao": "Automática",
     "vara": "1ª Vara Cível",
-    "nomeExecutado": "Fulano de Tal"
+    "nomeExecutado": "Fulano de Tal",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 2,
@@ -23,20 +24,22 @@
     "nroProcesso": 2022555,
     "distribuicao": "Manual",
     "vara": "2ª Vara de Família",
-    "nomeExecutado": "Beltrano de Souza"
+    "nomeExecutado": "Beltrano de Souza",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 3,
     "titulo": "Processo exemplar 03",
     "descricao": "Cobrança de honorários",
-    "dtCriacao": "2022-09-10",
+    "dtCriacao": "2018-09-10",
     "tipo": "Trabalhista",
     "vlDivida": 2000.75,
     "nomeJuiz": "Dr. Pedro Almeida",
     "nroProcesso": 3033444,
     "distribuicao": "Automática",
     "vara": "3ª Vara do Trabalho",
-    "nomeExecutado": "Ciclano Pereira"
+    "nomeExecutado": "Ciclano Pereira",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "nroProcesso": 4044333,
     "distribuicao": "Manual",
     "vara": "4ª Vara Federal",
-    "nomeExecutado": "Empresa XYZ"
+    "nomeExecutado": "Empresa XYZ",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "nroProcesso": 5055222,
     "distribuicao": "Automática",
     "vara": "5ª Vara Cível",
-    "nomeExecutado": "José da Silva"
+    "nomeExecutado": "José da Silva",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "nroProcesso": 6066111,
     "distribuicao": "Manual",
     "vara": "6ª Vara Cível",
-    "nomeExecutado": "Maria de Lourdes"
+    "nomeExecutado": "Maria de Lourdes",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "nroProcesso": 7077000,
     "distribuicao": "Automática",
     "vara": "7ª Vara de Família",
-    "nomeExecutado": "Carlos Menezes"
+    "nomeExecutado": "Carlos Menezes",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     "nroProcesso": 8088888,
     "distribuicao": "Manual",
     "vara": "8ª Vara Cível",
-    "nomeExecutado": "Empresa ABC"
+    "nomeExecutado": "Empresa ABC",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     "nroProcesso": 9099777,
     "distribuicao": "Automática",
     "vara": "9ª Vara de Família",
-    "nomeExecutado": "Renato Alves"
+    "nomeExecutado": "Renato Alves",
+    "dataPrescricaoValidada": false
   },
   {
     "id": 10,
@@ -127,6 +136,7 @@
     "nroProcesso": 1010101,
     "distribuicao": "Manual",
     "vara": "10ª Vara Cível",
-    "nomeExecutado": "Lúcia Ribeiro"
+    "nomeExecutado": "Lúcia Ribeiro",
+    "dataPrescricaoValidada": false
   }
 ]
